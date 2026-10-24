@@ -2,7 +2,7 @@
   "name": "meshtastic-ts",
   "version": "0.1.0",
   "private": true,
-  "description": "meshtastic-ts",
+  "description": "Unofficial TypeScript client for Meshtastic-compatible HTTP gateways",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
